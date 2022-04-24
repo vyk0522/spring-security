@@ -1,0 +1,23 @@
+
+L
+java:S3740/"/Provide the parametrized type for this generic.(§á½ˆ8â¾öÔ…0
+L
+java:S3740/"/Provide the parametrized type for this generic.(§á½ˆ8â¾öÔ…0
+_
+java:S3416"BUpdate this logger to use "WebApplicationClientApplication.class".(ì…Œ°8·ÈôÔ…0
+c
+java:S34573"AFormat specifiers should be used instead of string concatenation.(±Û…Êÿÿÿÿÿ8Î»ŞÚ…0
+c
+java:S34577"AFormat specifiers should be used instead of string concatenation.(Ûè¬ÿÿÿÿÿ8üåÔÚ…0
+c
+java:S34578"AFormat specifiers should be used instead of string concatenation.(±¡ ¤üÿÿÿÿ8şåÔÚ…0
+^
+java:S34579"AFormat specifiers should be used instead of string concatenation.(Œß¼§8ÿåÔÚ…0
+~
+java:S26297"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ûè¬ÿÿÿÿÿ8‚æÔÚ…0
+~
+java:S26298"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(±¡ ¤üÿÿÿÿ8‚æÔÚ…0
+m
+java:S22597"KA "NullPointerException" could be thrown; "getExpiresAt()" can return null.(Ûè¬ÿÿÿÿÿ8‘æÔÚ…0
+l
+java:S22597"JA "NullPointerException" could be thrown; "getIssuedAt()" can return null.(Ûè¬ÿÿÿÿÿ8‘æÔÚ…0

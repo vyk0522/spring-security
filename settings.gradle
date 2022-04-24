@@ -1,0 +1,3 @@
+rootProject.name = 'spring-security'
+include 'resource-server'
+include 'web-application-client'
