@@ -36,7 +36,7 @@ public class WebApplicationClientApplication implements CommandLineRunner {
      */
     @Override
 	public void run(String... args) throws Exception {
-		OAuth2AuthorizeRequest authorizeRequest = OAuth2AuthorizeRequest.withClientRegistrationId("client1").principal("client1-principal").build(); // Build an OAuth2 request for the Okta provider
+		OAuth2AuthorizeRequest authorizeRequest = OAuth2AuthorizeRequest.withClientRegistrationId("client2").principal("client2-principal").build(); // Build an OAuth2 request for the Okta provider
 		OAuth2AuthorizedClient authorizedClient = this.authorizedClientServiceAndManager.authorize(authorizeRequest); //JWT is retrieved from the Okta servers.
 		OAuth2AccessToken accessToken = Objects.requireNonNull(authorizedClient).getAccessToken();
 
