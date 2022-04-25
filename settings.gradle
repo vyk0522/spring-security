@@ -1,4 +1,4 @@
 rootProject.name = 'spring-security'
 include 'resource-server'
 include 'web-application-client'
-include 'web-application-client2'
+include 'webflux-client-2'
